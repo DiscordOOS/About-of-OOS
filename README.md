@@ -4,10 +4,10 @@
 
 ### Наши готовые проекты:
 
-- [AntiRaider Bot for Discord](https://discordoos.github.io/OOS-Secutity-Bot-for-Discord/)
+- [AntiRaider Bot for Discord](https://discordoos.github.io/Manual-OOS-Secutity-Bot-for-Discord/)
 
 ### Проекты в разработке:
-- [Birthday DataBase]()
+- [AntiRaider Bot for VK]()
 
 ### Наши разработчики:
 [Lick]() &
