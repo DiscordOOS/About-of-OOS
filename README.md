@@ -12,11 +12,12 @@
 ### Наши разработчики:
 :zzz: [Lick]()
 
-:octocat: [Skumen]()
+:octocat:    [Skumen]()
 
-:star: [Oyle]()
+[Oyle]()
 
-:white_check_mark: Это уже сделано   
+###Статусы систем:
+![https://img.shields.io/discord/536812340679540736?label=OOS%20Discord%20Server%20Online&logo=v&logoColor=green&style=for-the-badge](https://img.shields.io/discord/536812340679540736?label=OOS%20Discord%20Server%20Online&logo=v&logoColor=green&style=for-the-badge)
 
 ```markdown
 Модуль в разработке.
