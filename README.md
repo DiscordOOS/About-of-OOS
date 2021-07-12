@@ -4,7 +4,7 @@
 
 ### Наши готовые проекты:
 
-- [AntiRaider Bot for Discord](https://discordoos.github.io/Manual-Secutity-Bot-for-Discord/)
+- [AntiRaider Bot for Discord](https://discordoos.github.io/RU-Manual-Secutity-Bot-for-Discord/)
 
 ### Проекты в разработке:
 - [AntiRaider Bot for VK]()
