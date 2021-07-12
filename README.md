@@ -16,7 +16,7 @@
 
 ### Лицензии:
 
-![https://img.shields.io/github/license/DiscordOOS/OOS-Systems?color=r&label=%20OOS-Systems%20License](https://img.shields.io/github/license/DiscordOOS/OOS-Systems?color=r&label=%20OOS-Systems%20License)
+![https://img.shields.io/github/license/DiscordOOS/OOS-Systems-RU?color=r&label=OOS-Systems-RU%20License](https://img.shields.io/github/license/DiscordOOS/OOS-Systems-RU?color=r&label=OOS-Systems-RU%20License)
 
 ![https://img.shields.io/github/license/DiscordOOS/Manual-OOS-Secutity-Bot-for-Discord?color=r&label=Manual-OOS-Secutity-Bot-for-Discord%20License](https://img.shields.io/github/license/DiscordOOS/Manual-OOS-Secutity-Bot-for-Discord?color=r&label=Manual-OOS-Secutity-Bot-for-Discord%20License)
 
