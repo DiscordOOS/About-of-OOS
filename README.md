@@ -18,7 +18,7 @@
 
 ![https://img.shields.io/github/license/DiscordOOS/OOS-Systems-RU?color=r&label=OOS-Systems-RU%20License](https://img.shields.io/github/license/DiscordOOS/OOS-Systems-RU?color=r&label=OOS-Systems-RU%20License)
 
-![https://img.shields.io/github/license/DiscordOOS/Manual-OOS-Secutity-Bot-for-Discord?color=r&label=Manual-OOS-Secutity-Bot-for-Discord%20License](https://img.shields.io/github/license/DiscordOOS/Manual-OOS-Secutity-Bot-for-Discord?color=r&label=Manual-OOS-Secutity-Bot-for-Discord%20License)
+![https://img.shields.io/github/license/DiscordOOS/RU-Manual-Secutity-Bot-for-Discord?color=r&label=RU-Manual-Secutity-Bot-for-Discord%20License](https://img.shields.io/github/license/DiscordOOS/RU-Manual-Secutity-Bot-for-Discord?color=r&label=RU-Manual-Secutity-Bot-for-Discord%20License)
 
 ### Статусы систем:
 
