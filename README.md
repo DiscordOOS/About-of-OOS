@@ -10,17 +10,21 @@
 - [Birthday DataBase]()
 
 ### Наши разработчики:
-:zzz: [Lick]()
+[Lick]()
 
-:octocat:    [Skumen]()
+[Skumen]()
 
 [Oyle]()
 
 ###Лицензии:
+
 ![https://img.shields.io/github/license/DiscordOOS/OOS-Systems?color=r&label=%20OOS-Systems%20License](https://img.shields.io/github/license/DiscordOOS/OOS-Systems?color=r&label=%20OOS-Systems%20License)
 
 ###Статусы систем:
+
 ![https://img.shields.io/discord/536812340679540736?label=OOS%20Discord%20Server%20Online&logo=v&logoColor=green&style=for-the-badge](https://img.shields.io/discord/536812340679540736?label=OOS%20Discord%20Server%20Online&logo=v&logoColor=green&style=for-the-badge)
+
+
 ```markdown
 Модуль в разработке.
 ```
