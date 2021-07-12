@@ -10,11 +10,9 @@
 - [Birthday DataBase]()
 
 ### Наши разработчики:
-[Lick]()
-
-[Skumen]()
-
-[Oyle]()
+[Lick]() &
+[Skumen]() &
+[Oyle]() 
 
 ### Лицензии:
 
