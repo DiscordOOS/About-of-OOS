@@ -16,6 +16,8 @@
 
 :star: [Oyle]()
 
+:white_check_mark: Это уже сделано   
+
 ```markdown
 Модуль в разработке.
 ```
