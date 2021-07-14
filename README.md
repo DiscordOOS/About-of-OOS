@@ -9,6 +9,8 @@
 ### Лицензии:
 ![https://img.shields.io/github/license/DiscordOOS/OOS-Systems-RU?color=r&label=OOS-Systems-RU%20License](https://img.shields.io/github/license/DiscordOOS/OOS-Systems-RU?color=r&label=OOS-Systems-RU%20License)
 
+### Официальный сервер Discord: [OOS Discrod](https://discord.gg/4gWyPSn7wk)
+
 ![https://img.shields.io/github/license/DiscordOOS/RU-Manual-Secutity-Bot-for-Discord?color=r&label=RU-Manual-Secutity-Bot-for-Discord%20License](https://img.shields.io/github/license/DiscordOOS/RU-Manual-Secutity-Bot-for-Discord?color=r&label=RU-Manual-Secutity-Bot-for-Discord%20License)
 
 # [English version](https://discordoos.github.io/OOS-Systems-ENG/)
